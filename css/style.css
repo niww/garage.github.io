@@ -341,6 +341,7 @@ span.glyphicon{
     color: #999;
     line-height: 1.8em;
     margin: 0 0 1em 0;
+		text-align:  center;
 }
 a.read {
     color: #83d5d1;
